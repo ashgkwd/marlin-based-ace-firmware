@@ -51,11 +51,11 @@
   #ifdef CUSTOM_MENDEL_NAME
     #define MACHINE_NAME CUSTOM_MENDEL_NAME
   #else
-    #define MACHINE_NAME "Mendel"
+    #define MACHINE_NAME "ACE 3D Printer"
   #endif
 
 // Default firmware set to Mendel
-  #define FIRMWARE_URL "https://github.com/MarlinFirmware/Marlin"
+  #define FIRMWARE_URL "https://github.com/ashgkwd/marlin-based-ace-firmware"
 #endif
 
 
